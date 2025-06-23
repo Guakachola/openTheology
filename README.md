@@ -1,7 +1,7 @@
 # openTheology (proof of concept)
  This  will be my attempt at developing a webapp using an AI api.
 ## Bible Ai Intepretation
- I plan on using this project ot help myself use AI intregation and develop more webapps. Ethically, this can be seen as a problem for some poeple, using AI to intrepret Bible verses, but before that let me explain what this app will aim to do. 
+ I plan on using this project to help myself use AI intregation and develop more webapps. Ethically, this can be seen as a problem for some poeple, using AI to intrepret Bible verses, but before that let me explain what this app will aim to do. 
 #### Uses
 * Have a Bible API (perferably Logos) to use as the frontend Bible.
 * Use AI to do the following
